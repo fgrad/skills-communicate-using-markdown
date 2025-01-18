@@ -1,8 +1,6 @@
 # <h1> test1
 ## <h2> test2
 ### <h3> test3
-# <h4> test4
-# <h5> test5
 # ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 # <h3>Codebeispiel einfügen
 ```
@@ -13,5 +11,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+# <h3> Task Liste
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
